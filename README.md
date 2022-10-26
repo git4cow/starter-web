@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 ### How To Contribute
 Fork repository and send for review
+
+#### Copyright
+All rights reserved
